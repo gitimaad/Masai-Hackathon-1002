@@ -36,10 +36,4 @@ This repository contains three Jupyter Notebook files covering different phases 
 
 ---
 
-## **Getting Started**
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
 
