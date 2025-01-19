@@ -99,11 +99,4 @@ An interactive Power BI dashboard providing a user-friendly interface for data e
 - Tools Used: `Python`, `pandas`, `seaborn`, `sklearn`, `SQL`, `Power BI`
 - Key Focus: Delivering insights that are actionable and aligned with business goals.
 
----
-
-### Next Steps:
-- Deploy the machine learning model and Power BI dashboards.
-- Automate the data pipeline to handle real-time updates.
-
-For further questions or clarifications, feel free to reach out!
 
