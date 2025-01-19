@@ -1,3 +1,4 @@
+# 1002_Project Presentation - https://drive.google.com/file/d/1fZ9JZ01cs31K3R2xb7co0nrWrmB90r9m/view?usp=sharing
 # README: Data Science Project Phases
 
 This README outlines the various phases of the project, including Machine Learning, Data Cleaning, Exploratory Data Analysis (EDA), SQL Integration, and Power BI Visualizations. Each phase is critical for building an end-to-end data-driven solution.
